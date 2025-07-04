@@ -1,2 +1,2 @@
 # VOC-traceability
-Development of a Bayesian Optimization-based Multimodel Algorithm for the Source Identification of Volatile Organic Pollutants in Industrial Agglomeration Areas
+Tracing petrochemical emissions: Neural network-driven spectral fingerprint analysis of volatile organic compounds
